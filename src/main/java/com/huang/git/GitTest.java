@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("pull,Test");
         System.out.println("Gitee,Test");
         System.out.println("Gitee,Hello");
+        System.out.println("i am branch");
     }
 }
